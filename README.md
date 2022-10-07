@@ -2,6 +2,14 @@
 
 This component is made from the help of a website named universe.io
 
+Component Link 
+
+https://killertian.github.io/Google-Search-Bar/
+
+Preview
+
+![image](https://user-images.githubusercontent.com/77867638/194613375-fc7d9bd0-f018-4392-80d6-4e306386ed1f.png)
+
 # License 
 
 MIT License
